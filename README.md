@@ -7,8 +7,11 @@ I'm always looking for new and innovative ways to use technology to solve real-w
 
 My skills include:
 
-HTML ⭐️⭐️⭐️⭐️⭐️
+
+HTML ⭐️⭐️⭐️⭐️⭐️ 
+
 CSS  ⭐️⭐️⭐️⭐️
+
 JavaScript ⭐️⭐️⭐️
 
 I'm currently working on a project called Tracalories, which is an app that helps you keep track on your body calories
