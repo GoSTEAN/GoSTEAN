@@ -12,8 +12,11 @@ Hey 👋 I'm Stephanie. Been into the technology space since around 2020
 - Python
 - Javasscript
 - Networking
+- Technical Writing
 
-  
+
+💡 **Problem Solving**
+
 
 
 🚀 **Collaboration**
