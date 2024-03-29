@@ -16,8 +16,7 @@ Hey 👋 I'm Stephanie. Been into the technology space since around 2020
 
 
 💡 **Problem Solving**
-
-
+- I enjoy solving complex programming challenges and enjoy the process of devising effective solutions.
 
 🚀 **Collaboration**
 
