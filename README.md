@@ -4,7 +4,7 @@ Hey 👋 I'm Stephanie. Been into the technology space since around 2020
 
 🔍 **Area of Interest**
  
- - Front-End development
+ - Front-End Development
  - Open Source
  - CyberSecurity
 
