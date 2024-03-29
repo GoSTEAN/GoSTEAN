@@ -1,16 +1,29 @@
 ## My GitHub Profile
 
-Hey 👋 I'm Stephanie. Been into the technology space since 2020
+Hey 👋 I'm Stephanie. Been into the technology space since around 2020
 
-Area of Interest
-. Front-end development
-. Open-Source
-. Cybersecurity
+🔍 **Area of Interest**
+ 
+ - Front-end development
+ - OpenSource
+ - Cybersecurity
 
-Skills Set
-. Python
-. Javasscript
-. Networking
+👩‍💻 **Skill Sets**
+- Python
+- Javasscript
+- Networking
+
+  
+
+
+🚀 **Collaboration**
+
+I'm always excited to connect with like-minded individuals and explore how we can work together to achieve your business objectives.
+
+📫 **Reach Out**
+
+Feel free to reach out to me at stephanienwankwo0@gmail.com Whether it's a project inquiry, a potential collaboration, or just to say hi, I'd love to hear from you.
+
 
 
 
