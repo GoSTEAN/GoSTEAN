@@ -4,13 +4,13 @@ Hey 👋 I'm Stephanie. Been into the technology space since around 2020
 
 🔍 **Area of Interest**
  
- - Front-end development
- - OpenSource
- - Cybersecurity
+ - Front-End development
+ - Open Source
+ - CyberSecurity
 
 👩‍💻 **Skill Sets**
 - Python
-- Javasscript
+- JavaScript
 - Networking
 - Technical Writing
 
