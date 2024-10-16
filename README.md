@@ -1,12 +1,11 @@
 ## My GitHub Profile
 
-Hey 👋 I'm Stephanie. Been into the technology space since around 2020
+Hey 👋 I'm Stephanie.
 
 🔍 **Area of Interest**
  
  - Blockchain Development
  - Open Source
- - CyberSecurity
 
 👩‍💻 **Skill Sets**
 - Solidity
@@ -25,7 +24,7 @@ I'm always excited to connect with like-minded individuals and explore how we ca
 
 📫 **Reach Out**
 
-Feel free to reach out to me at stephanienwankwo0@gmail.com Whether it's a project inquiry, a potential collaboration, or just to say hi, I'd love to hear from you.
+Feel free to reach out to me at stephanienwankwo0@gmail.com Whether it's a project inquiry, a potential collaboration.
 
 
 
